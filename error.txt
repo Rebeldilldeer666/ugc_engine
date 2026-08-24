@@ -1,0 +1,72 @@
+Vercel CLI 59.3.0 (Node.js 26.3.1)
+
+  Directory       ~/ugc_engine
+
+Loading teams…
+  Team            rebel-ai
+Searching for existing projects…
+Searching for existing projects…
+? Which project? (Use arrow keys)
+❯ Search all projects
+  Create a new project
+Browse or search every project in this team[?25l[44G[45G[2K[1A[2K[1A[2K[1A[2K[G? Which project? Search all projects[37G[38G[39G[40G[41G[42G[43G[2K[G? Which project? Create a new project[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[38G[39G[40G[41G[42G[43G[44G[45G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[70G[71G[72G[73G[74G[75G[76G[77G[78G[79G[80G[81G[82G[83G[84G[85G[86G[87G[88G[89G[90G[91G[92G[93G[94G[95G[96G[97G[98G[99G[100G[101G[102G[103G[104G[105G[106G[107G[108G[109G[110G[111G[112G[113G[114G[115G[116G[117G[118G[119G[120G[2K[G? Which project? Search all projects[37G[38G[39G[40G[41G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[70G[71G[72G[73G[74G[75G[76G[77G[78G[79G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[37G[38G[39G[40G[41G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[37G[38G[39G[40G[41G[42G[43G[44G[45G[46G[47G[48G[49G[50G[51G[52G[53G[54G[55G[56G[57G[58G[59G[60G[61G[62G[63G[64G[65G[66G[67G[68G[69G[70G[71G[72G[73G[74G[75G[76G[77G[78G[79G[80G[81G[37G[38G[39G[37G
+[?25h? [1mWhich project?[22m [36m[39m[18G[2K[G? [1mWhich project?[22m [36m[39m
+[36m❯ rebelai[39m
+  signal-from-the-void
+  rebelai-storefront
+  downloads
+  rebel-a-i
+ ──────────────
+  Back to project options
+[2m(Use arrow keys)[22m[8A[18G[8B[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G? [1mWhich project?[22m [36m[39m
+[36m❯ rebelai[39m
+  signal-from-the-void
+  rebelai-storefront
+  downloads
+  rebel-a-i
+ ──────────────
+  Back to project options
+[2m(Use arrow keys)[22m[8A[18G[8B[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G? [1mWhich project?[22m [36m[39m
+[36m❯ rebelai[39m
+  signal-from-the-void
+  rebelai-storefront
+  downloads
+  rebel-a-i
+ ──────────────
+  Back to project options
+[2m(Use arrow keys)[22m[8A[18G[8B[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G? [1mWhich project?[22m [36m[39m
+[36m❯ rebelai[39m
+  signal-from-the-void
+  rebelai-storefront
+  downloads
+  rebel-a-i
+ ──────────────
+  Back to project options
+[2m(Use arrow keys)[22m[8A[18G[8B[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G? [1mWhich project?[22m rebelai[25G
+[?25h
+✓ Linked          rebel-ai/rebelai
+
+? Pull development environment variables into .env.local? (Y/n)[65G[2K[G? Pull development environment variables into .env.local? yes[62G
+[?25hRetrieving project…
+> Downloading `development` environment variables for rebel-ai/rebelai
+Downloading
+
+✓ Created         .env.local file and added it to .gitignore
+Deploying rebel-ai/rebelai
+Uploading [--------------------] (0.0B/166.9KB)
+Uploading [=====---------------] (48.0KB/166.9KB)
+Uploading [==========----------] (88.0KB/166.9KB)
+Uploading [================----] (136.0KB/166.9KB)
+Uploading [====================] (166.9KB/166.9KB)
+  Inspect         https://vercel.com/rebel-ai/rebelai/Acdqh3CvcdAunNaobEHR39XHswE2
+  Preview         https://rebelai-2s3sfpdnn-rebel-ai.vercel.app
+Building…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Downloading 9 deployment files...
+Restored build cache from previous deployment (5jhV16ToaEFozcX27NHivYnFNYGW)
+Running "vercel build"
+Vercel CLI 59.3.0
+Error: Command "vite build" exited with 127

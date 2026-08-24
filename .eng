@@ -1,0 +1,2 @@
+STRIPE_SECRET_KEY=sk_live_...j1vo  <- paste your Termux developer key here OR the rk_live one
+STRIPE_WEBHOOK_SECRET=sk_live_...j1vomk_1U0DgUHLHBCdR2IVOkurpA4T
